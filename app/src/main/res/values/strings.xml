@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InfinityApp</string>
+    <string name="frag_name0">page 1</string>
+    <string name="frag_name1">page 2</string>
+    <string name="frag_name2">page 3</string>
+    <string name="prev"><![CDATA[< prev]]></string>
+    <string name="next"><![CDATA[next >]]></string>
+
+    <string-array name="types">
+        <item name="type">Type</item>
+    </string-array>
+
+</resources>

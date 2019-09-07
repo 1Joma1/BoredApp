@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#693BFC</color>
+    <color name="colorAccentDark">#4B1DDE</color>
+    <color name="pink">#DB366A</color>
+    <color name="blueDots">#4386FB</color>
+    <color name="darkBlue">#28323B</color>
+    <color name="seekbar_fill">#6B81F5</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
